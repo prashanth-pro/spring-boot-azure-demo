@@ -15,7 +15,7 @@ public class SpringAzureDemoApplication {
 
 	@GetMapping("/message")
 	public String getMessage() {
-		return "Hurray! You deployed a spring boot application in Azure. Whats next?";
+		return "Hurray! You deployed a spring boot application in Azure. Whats next?, I think Spring with React JS";
 	}
 
 }
